@@ -1,7 +1,7 @@
-### 👋🏻 Olá, eu sou o Thalles! Muito prazer 🤝🏻
-- Sou um Desenvolvedor Backend apaixonado por lógica, dados e infraestutura ⚙
-- Estusiasta autodidata: disposto a aprender, a contribuir positivamente e a evoluir sempre 🚀
-- Em busca da primeira oportunidade no mercado de trabalho 🥇
+# 👋🏻 Olá, eu sou o Thalles!
+- 💻 Desenvolvedor Backend Java focado em APIs REST, integração com bancos de dados e boas práticas de backend.
+- ⚙ Experiência com Java, Spring, Docker, PostgreSQL, testes automatizados e CI/CD com GitHub Actions.
+- 🚀 Construindo projetos práticos e aprofundando conhecimentos em desenvolvimento backend e arquitetura de software.
 
 ## Linguagens e Ferramentas 💻
 ### Backend 🔥
@@ -34,14 +34,9 @@
 </div>
 
 ## GitHub Stats 📊
-<div>
-  <a href="https://github.com/thallesborges">
-  <center>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thallesborges&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-  </center>
-  <center>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallesborges&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
-  </center>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thallesborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thallesborges&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Contato 📫
